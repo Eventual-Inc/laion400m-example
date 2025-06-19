@@ -2,12 +2,13 @@
 
 Example of using Daft to generate new captions for the LAION400m HuggingFace image dataset.
 
-## Getting started
+## Getting Started
 
 1. Set up your virtual environment and install the dependencies from the `requirements.txt`.
 
 ```
 python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
