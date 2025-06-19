@@ -1,0 +1,8 @@
+# Image conversion
+pillow
+# Inference Call
+openai
+instructor
+pydantic
+# To bring everything together!
+daft
